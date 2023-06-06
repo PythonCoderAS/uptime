@@ -4,19 +4,19 @@
     "url": "https://uptime.aoyans.dev",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.aoyans.dev.ico",
     "slug": "uptime-page",
-    "status": "down",
-    "uptime": "6.80%",
-    "uptimeDay": "6.80%",
-    "uptimeWeek": "6.80%",
-    "uptimeMonth": "6.80%",
-    "uptimeYear": "6.80%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-06-06": 0
+      "2023-06-06": 12
     }
   },
   {
