@@ -9,6 +9,10 @@ sites:
     url: https://jellyfin.aoyans.dev
   - name: Qbittorrent
     url: https://qbittorrent.aoyans.dev
+  - name: SSO
+    url: https://sso.aoyans.dev
+  - name: Portainer
+    url: https://portainer.aoyans.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
