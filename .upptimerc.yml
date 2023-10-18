@@ -4,11 +4,11 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Grafana
-    url: https://grafana.aoyans.dev
+    url: https://grafana.aoyans.dev/api/health
   - name: Jellyfin
     url: https://jellyfin.aoyans.dev
   - name: Qbittorrent
-    url: https://qbittorrent.aoyans.dev
+    url: https://qbittorrent.aoyans.dev/outpost.goauthentik.io/ping
   - name: SSO
     url: https://sso.aoyans.dev
   - name: Portainer
