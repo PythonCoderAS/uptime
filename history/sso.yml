@@ -1,7 +1,7 @@
 url: https://sso.aoyans.dev
-status: down
-code: 502
-responseTime: 18865
-lastUpdated: 2023-10-24T13:14:35.746Z
+status: up
+code: 200
+responseTime: 530
+lastUpdated: 2023-10-24T13:50:14.672Z
 startTime: 2023-10-18T01:38:38.723Z
 generator: Upptime <https://github.com/upptime/upptime>
