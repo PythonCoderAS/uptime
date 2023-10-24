@@ -1,7 +1,7 @@
 url: https://qbittorrent.aoyans.dev/outpost.goauthentik.io/ping
-status: down
-code: 502
-responseTime: 3369
-lastUpdated: 2023-10-24T13:14:09.955Z
+status: up
+code: 204
+responseTime: 280
+lastUpdated: 2023-10-24T13:50:13.111Z
 startTime: 2023-06-06T01:58:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
