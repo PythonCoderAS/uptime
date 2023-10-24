@@ -1,7 +1,7 @@
 url: https://jellyfin.aoyans.dev
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2023-10-23T23:07:12.787Z
+status: down
+code: 521
+responseTime: 122
+lastUpdated: 2023-10-24T13:28:13.357Z
 startTime: 2023-06-06T01:58:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
